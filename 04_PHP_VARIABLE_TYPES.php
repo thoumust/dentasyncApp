@@ -3,6 +3,7 @@
 <head>
 	<title>04_PHP_VARIABLE_TYPES</title>
 </head>
+<link rel="stylesheet" href="styles04.css">
 <body>
     <?php
     //int

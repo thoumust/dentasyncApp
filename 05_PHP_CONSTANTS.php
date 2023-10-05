@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>05 PHP CONSTANTS</title>
+	<title></title>
 </head>
 <body>
 	<?php
